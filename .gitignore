@@ -2,6 +2,8 @@ target/
 !.mvn/wrapper/maven-wrapper
 !**/src/main/**/target/
 !**/src/test/**/target/
+#text files
+*.txtgit push --set-upstream origin new
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
